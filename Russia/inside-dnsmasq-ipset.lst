@@ -1059,3 +1059,4 @@ ipset=/zedge.net/vpn_domains
 ipset=/zendesk.com/vpn_domains
 ipset=/zerkalo.io/vpn_domains
 ipset=/zona.media/vpn_domains
+ipset=/t.me/vpn_domains
